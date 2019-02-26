@@ -8,8 +8,8 @@
 
 ## 此次用到的演算法：
 
-### Attention model:(資料來源:網路)
-- https://ithelp.ithome.com.tw/articles/10205838
+### Attention model:
+- https://ithelp.ithome.com.tw/articles/10205838 (資料來源:網路)
 
 ## 個人檔案：
 ### Linkedin: 
